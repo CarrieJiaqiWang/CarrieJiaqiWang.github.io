@@ -1,11 +1,36 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+Hi! I’m a rising fourth-year PhD student at [Cornell Operations Research and Information Engineering (ORIE)](https://www.engineering.cornell.edu/orie/) department, advised by Prof. [Gennady Samorodnitsky](https://people.orie.cornell.edu/gennady/).
+
+My research interests lie at the intersection of probability theory, optimization, and privacy-preserving algorithms. I’m especially drawn to abnormal probabilistic phenomena—such as heavy-tailed distributions and large deviation events—and their implications in algorithmic design and risk-aware decision making.
+Broadly, I aim to blend mathematical rigor, intuitive insights, and computational perspectives to design systems that are not only theoretically sound but also practically relevant.
+Outside of research, I’m passionate about teaching, mentoring, and community building. I believe in cultivating curiosity, encouraging open communication, and supporting the next generation of researchers.
+
+Prior to joining Cornell, I obtained a BS in Mathematics and Applied Mathematics at the Chinese University of Hongkong (Shenzhen) in 2022.
+
+Research
+====
+
+Main interest
+---
+
+Selected projects
+---
+[Clustering of large deviations events in heavy-tailed moving average processes: the catastrophe principle in the short-memory case](https://arxiv.org/abs/2506.10256)
+
+[Differentially Private Sinkhorn Algorithm](https://ieeexplore.ieee.org/abstract/document/10735319)
+
+Personal life 
+=====
+
+When I’m not researching, you’ll likely find me climbing, hiking, or playing squash. I also enjoy cooking Chinese dishes, singing while playing the piano, and reading across disciplines—especially psychology, biology, philosophy, and AI.
+I believe that creativity, compassion, and curiosity are just as essential in research as they are in life.
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
