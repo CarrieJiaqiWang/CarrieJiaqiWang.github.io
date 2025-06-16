@@ -10,7 +10,7 @@ Hi! I’m a rising fourth-year PhD student at [Cornell Operations Research and I
 
 My research interests lie at the intersection of probability theory, optimization, and privacy-preserving algorithms. I’m especially drawn to abnormal probabilistic phenomena—such as heavy-tailed distributions and large deviation events—and their implications in algorithmic design and risk-aware decision making.
 
-Broadly, I aim to blend mathematical rigor, intuitive insights, and computational perspectives to design systems that are not only theoretically sound but also practically relevant.
+## Broadly, I aim to blend mathematical rigor, intuitive insights, and computational perspectives to design systems that are not only theoretically sound but also practically relevant.
 
 Outside of research, I’m passionate about teaching, mentoring, and community building. I believe in cultivating curiosity, encouraging open communication, and supporting the next generation of researchers.
 
@@ -32,11 +32,15 @@ Differential privacy
 Selected projects
 ---
 Clustering of large deviations events in heavy-tailed moving average processes: the catastrophe principle in the short-memory case
+
 Jiaqi Wang, Gennady Samorodnitsky
+
 [paper](https://arxiv.org/abs/2506.10256)
 
 Differentially Private Sinkhorn Algorithm
+
 Jiaqi Wang, Ziv Goldfeld 
+
 [paper](https://ieeexplore.ieee.org/abstract/document/10735319), [slides](https://drive.google.com/file/d/1wuUl8YsU58Y4I3GYYPnF-4vNWCOSndPK/view?usp=sharing)
 
 Personal life 
