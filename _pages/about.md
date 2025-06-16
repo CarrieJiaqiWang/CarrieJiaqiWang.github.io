@@ -10,8 +10,6 @@ Hi! I’m a rising fourth-year PhD student at [Cornell Operations Research and I
 
 My research interests lie at the intersection of probability theory, optimization, and privacy-preserving algorithms. I’m especially drawn to abnormal probabilistic phenomena—such as heavy-tailed distributions and large deviation events—and their implications in algorithmic design and risk-aware decision making.
 
-## Broadly, I aim to blend mathematical rigor, intuitive insights, and computational perspectives to design systems that are not only theoretically sound but also practically relevant.
-
 Outside of research, I’m passionate about teaching, mentoring, and community building. I believe in cultivating curiosity, encouraging open communication, and supporting the next generation of researchers.
 
 Prior to joining Cornell, I obtained a BS in Mathematics and Applied Mathematics at the Chinese University of Hongkong (Shenzhen) in 2022.
