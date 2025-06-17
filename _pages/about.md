@@ -20,7 +20,7 @@ Research
 Main interest
 ---
 
-Rare and abnormal events in probability (e.g., heavy tails, large deviations)
+Rare and abnormal events in probability (heavy tails, large deviations)
 
 Optimization algorithms
 
