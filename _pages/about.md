@@ -14,17 +14,22 @@ Beyond research, I’m committed to teaching and community building. I’ve serv
 
 Research Preprints/Publications
 ====
-Clustering of large deviations events in heavy-tailed moving average processes: the catastrophe principle in the short-memory case
+<div style="line-height: 1;">
+Clustering of large deviations events in heavy-tailed moving average processes: the catastrophe principle in the short-memory case. *arxiv preprint*.
 
 Jiaqi Wang, Gennady Samorodnitsky
 
 [paper](https://arxiv.org/abs/2506.10256)
+</div>
 
-Differentially Private Sinkhorn Algorithm
+
+<div style="line-height: 1;">
+Differentially Private Sinkhorn Algorithm. *2024 60th Annual Allerton Conference on Communication, Control, and Computing (2024).* pp 1- 8. 
 
 Jiaqi Wang, Ziv Goldfeld 
 
 [paper](https://ieeexplore.ieee.org/abstract/document/10735319), [slides](https://drive.google.com/file/d/1jzPHlnUEjDTDd0sVrFdkKci-IGZgPtgH/view?usp=sharing)
+</div>
 
 Beyond Academia 
 =====
