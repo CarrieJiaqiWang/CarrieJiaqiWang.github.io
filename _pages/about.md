@@ -24,7 +24,7 @@ Differentially Private Sinkhorn Algorithm
 
 Jiaqi Wang, Ziv Goldfeld 
 
-[paper](https://ieeexplore.ieee.org/abstract/document/10735319), [slides](https://drive.google.com/file/d/1wuUl8YsU58Y4I3GYYPnF-4vNWCOSndPK/view?usp=sharing)
+[paper](https://ieeexplore.ieee.org/abstract/document/10735319), [slides](https://drive.google.com/file/d/1jzPHlnUEjDTDd0sVrFdkKci-IGZgPtgH/view?usp=sharing)
 
 Beyond Academia 
 =====
