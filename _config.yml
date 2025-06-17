@@ -186,9 +186,11 @@ exclude:
   - README
   - tmp
   - vendor
-  - talks.html
-  - portfolio.html
-  - publications.html
+  - _pages/talks.html
+  - _pages/portfolio.html
+  - _pages/publications.html
+  - _pages/category-archive.html
+  - _pages/cv.md
 keep_files:
   - .git
   - .svn
