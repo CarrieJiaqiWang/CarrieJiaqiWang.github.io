@@ -186,6 +186,9 @@ exclude:
   - README
   - tmp
   - vendor
+  - talks.html
+  - portfolio.html
+  - publications.html
 keep_files:
   - .git
   - .svn
