@@ -6,29 +6,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi! I’m a rising fourth-year PhD student at [Cornell Operations Research and Information Engineering (ORIE)](https://www.engineering.cornell.edu/orie/) department, advised by Prof. [Gennady Samorodnitsky](https://people.orie.cornell.edu/gennady/).
+Hi! I’m a rising fourth-year PhD student at [Cornell Operations Research and Information Engineering (ORIE)](https://www.engineering.cornell.edu/orie/), advised by Prof. [Gennady Samorodnitsky](https://people.orie.cornell.edu/gennady/).
 
-My research interests lie at the intersection of probability theory, optimization, and privacy-preserving algorithms. I’m especially drawn to abnormal probabilistic phenomena—such as heavy-tailed distributions and large deviation events—and their implications in algorithmic design and risk-aware decision making.
+My research lies at the intersection of probability theory and algorithm design, with a focus on extreme events, large deviations, and heavy-tailed phenomena in stochastic systems. In the long term, I aim to integrate probabilistic insights into the design of efficient and reliable algorithms. 
 
-Outside of research, I’m passionate about teaching, mentoring, and community building. I believe in cultivating curiosity, encouraging open communication, and supporting the next generation of researchers.
+Beyond research, I’m committed to teaching and community building. I’ve served as a TA consultant for Cornell Engineering and co-led mentorship programs supporting underrepresented and low-income applicants. I hold a B.S. in Mathematics from the Chinese University of Hong Kong, Shenzhen.
 
-Prior to joining Cornell, I obtained a BS in Mathematics and Applied Mathematics at the Chinese University of Hongkong (Shenzhen) in 2022.
-
-Research
+Research Preprints/Publications
 ====
-
-Main interest
----
-
-Rare and abnormal events in probability (heavy tails, large deviations)
-
-Optimization algorithms
-
-Differential privacy
-
-
-Selected projects
----
 Clustering of large deviations events in heavy-tailed moving average processes: the catastrophe principle in the short-memory case
 
 Jiaqi Wang, Gennady Samorodnitsky
@@ -41,8 +26,7 @@ Jiaqi Wang, Ziv Goldfeld
 
 [paper](https://ieeexplore.ieee.org/abstract/document/10735319), [slides](https://drive.google.com/file/d/1wuUl8YsU58Y4I3GYYPnF-4vNWCOSndPK/view?usp=sharing)
 
-Personal life 
+Beyond Academia 
 =====
 
-When I’m not researching, you’ll likely find me climbing, hiking, or playing squash. I also enjoy cooking Chinese dishes, singing while playing the piano, and reading across disciplines—especially psychology, biology, philosophy, and AI.
-I believe that creativity, compassion, and curiosity are just as essential in research as they are in life.
+Outside of research, I enjoy climbing, hiking, and cooking Chinese meals. I’m an avid reader of psychology, biology, and biography—drawn to ideas that connect science with everyday life. I value curiosity, balance, and inner freedom, and believe that a meaningful life is built on diverse anchors: work, relationships, solitude, and exploration.
